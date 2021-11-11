@@ -10,4 +10,5 @@ namespace two {
 
 int main() {
 	cout << two::counter << endl;
+	cout << "It is nice to edit in Windows using VI" << endl;
 }
