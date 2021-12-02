@@ -10,6 +10,6 @@ namespace two {
 
 int main() {
 	cout << two::counter << endl;
-	cout << "It is nice to edit in Windows using VI" << endl;
-	cout <<  "This is Jey!" << endl;
+	cout << "It is nice to edit in Linux using VI" << endl;
+	cout <<  "This is Vishnu Ranganath!" << endl;
 }
