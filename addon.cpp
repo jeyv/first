@@ -7,7 +7,7 @@ int counter = 2;
 int crazy() {
 	cout << "Crazy";
 
-	cout << "Jey";
+	cout << "Hamzah";
 
 	cout << "I am not crazy";
 
