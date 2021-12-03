@@ -11,5 +11,5 @@ namespace two {
 int main() {
 	cout << two::counter << endl;
 	cout << "It is nice to edit in Windows using VI" << endl;
-	cout <<  "This is Thomas Kahng!" << endl;
+	cout <<  "This is Azeem Mir!" << endl;
 }
